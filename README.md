@@ -1,2 +1,2 @@
-This Project is for Uemy Course.<br>
+This Project is for Udemy Course.<br>
 Author : Global
